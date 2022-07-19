@@ -6,7 +6,7 @@
 
 -interested in **Neuro-Electronics**
 
--Working in [NEE](https://sites.google.com/view/junlab)
+-Working at [NEE](https://sites.google.com/view/junlab)
 
 
 <!--
