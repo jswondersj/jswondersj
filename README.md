@@ -2,7 +2,7 @@
 
 -**Jia Sohn** from S.Korea
 
--Studying for **Master's Degree in Neuro-Electronics**
+-Studying for **Master's Degree in Neuro-Electronics** [NEE](https://sites.google.com/view/junlab)
 
 -Learning *MATLAB*, *Python*
 
