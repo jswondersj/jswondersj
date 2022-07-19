@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 -**Jia Sohn** from S.Korea
-
 -Studying for Master's Degree in Neuro-Electronics
-
--Learning **MATLAB**, **Python*
+-Learning *MATLAB*, *Python*
 
 <!--
 **jswondersj/jswondersj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
