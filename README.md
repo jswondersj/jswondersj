@@ -5,7 +5,7 @@
 - **M.S. Candidate in Electrical Engineering** in Ewha Womans University *[2022-Present]*
 - Interested in **Neuro-Electronics**   
 
-Working at [NEE](https://sites.google.com/view/junlab)🥼  
+🥼 Working at [NEE](https://sites.google.com/view/junlab) 
 
 
 <!--
