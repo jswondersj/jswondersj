@@ -2,13 +2,12 @@
 
 -**Jia Sohn** from S.Korea
 
--**M.S. Candidate in Electrical Engineering** 
+-**M.S. Candidate in Electrical Engineering** in *Ewha Womans University* 
 
 -interested in **Neuro-Electronics**
 
 -Working in [NEE](https://sites.google.com/view/junlab)
 
--Learning *MATLAB*, *Python*
 
 <!--
 **jswondersj/jswondersj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
