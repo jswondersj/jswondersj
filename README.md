@@ -1,10 +1,11 @@
-### Hi there 👋
+### About Me 👩‍🦱
 
 -**Jia Sohn** from S.Korea   
--**BS in Electrical Engineering** in *Ewha Womans University*   
+-**BS in Electrical Engineering** in *Ewha Womans University* 
 -**M.S. Candidate in Electrical Engineering** in *Ewha Womans University*   
--Interested in **Neuro-Electronics**   
--Working at [NEE](https://sites.google.com/view/junlab)   
+-Interested in **Neuro-Electronics**
+
+Working at [NEE](https://sites.google.com/view/junlab)🥼  
 
 
 <!--
