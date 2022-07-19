@@ -4,7 +4,7 @@
 
 -**M.S. Candidate in Electrical Engineering** in *Ewha Womans University* 
 
--interested in **Neuro-Electronics**
+-Interested in **Neuro-Electronics**
 
 -Working at [NEE](https://sites.google.com/view/junlab)
 
