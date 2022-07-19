@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 -**Jia Sohn** from S.Korea
--Studying for Master's Degree in Neuro-Electronics
+
+-Studying for **Master's Degree in Neuro-Electronics**
+
 -Learning *MATLAB*, *Python*
 
 <!--
